@@ -1,7 +1,7 @@
 # mercadolibre
 2nd place solution for the MeLi Challenge 2019
 
-
+This solution uses three models SGD (scikit-learn), multinomialNB (scikit-learn) and GRU (Keras) trained on both char level and word level, and in two different (but quite similar) datasets.
 
 ## Instructions to generate submission 
 
